@@ -3,9 +3,6 @@
 //We can use it as follows:
 //take XOR of A and B and and count the number of set bits in it.Thats the answer. that will be the count of all unequal bits  
 
-//Issue:
-//TC O(logn) kaise aaya ye nhi pata. kuch to log2n ka logic hai. Figure it out later
-
 #include<iostream>
 using namespace std;
 
